@@ -1,2 +1,2 @@
 # PublicHistTheses
-A repository of public history theses from Australasia
+A repository of public history theses from Australasia collected by [Ewan Coopey]() for the [Centre for Applied History](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/centre-for-applied-history) at Macquarie University. The aims of this project are to 1) see what direction(s) the field of public history is going in in Australasia, and 2) to draw attention to the excellent research being conducted by higher degree research candidates across Australasia.
